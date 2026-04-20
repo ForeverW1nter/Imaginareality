@@ -1,5 +1,5 @@
 {
-"astrbot_plugin_messin_bot": {
+  "astrbot_plugin_messin_bot": {
     "display_name": "MessinBot",
     "desc": "提供完整的机器人功能，包括基础命令、AI对话、经济系统、管理功能、娱乐功能和工具功能",
     "author": "Forewall",
@@ -14,8 +14,8 @@
     ],
     "social_link": "https://github.com/ForeverW1nter/astrbot_plugin_messin_bot",
     "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-04-20T22:30:00Z",
+    "version": "1.0.2",
+    "updated_at": "2026-04-20T23:00:00Z",
     "logo": "https://foreverw1nter.github.io/astrbot_plugin_messin_bot/logo.png"
   }
 }
